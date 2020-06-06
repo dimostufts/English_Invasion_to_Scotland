@@ -88,3 +88,6 @@ var props = pops.map(x=>proportions(x.get(0).asInstanceOf[String],x.get(5).asIns
 // regarding the biggest change over time, we see that scotland specifically is getting alot of over 65 people as well as wales. Also cardiff, glasgow, falkirk are getting many young people, cities that are also in scotland. 
 
 // clearly younger and older are not moving where they used to move (london and south england respectively) rather to scotland and wales. Could it be that people are leaving England because of Brexit?
+
+
+// new line of code
